@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yeWXZmPU+tQ=",
+  "success": true,
+  "projectFilePath": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/jlopezh73/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/Users/jlopezh73/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

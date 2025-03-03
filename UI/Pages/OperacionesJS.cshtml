@@ -1,0 +1,61 @@
+﻿@page
+@model OperacionesModel
+@{
+    ViewData["Title"] = "Calculadora";
+}
+
+<form>
+  <div class="row mb-3">
+    <label for="op1" class="col-sm-2 col-form-label">Operando 1</label>
+    <div class="col-sm-3">
+      <input type="number" class="form-control" id="op1" value="0">
+    </div>    
+  </div>
+  <div class="row mb-3">
+    <label for="op2" class="col-sm-2 col-form-label">Operando 2</label>
+    <div class="col-sm-3">
+      <input type="number" class="form-control" id="op2" value="0">
+    </div>
+  </div>
+  <fieldset class="row mb-3">
+    <legend class="col-form-label col-sm-2 pt-0">Operación</legend>
+    <div class="col-sm-10">
+      <div class="form-check">
+        <input class="form-check-input" type="radio" 
+            id="opSumar" value="1" checked name="operacion" >
+        <label class="form-check-label" for="opSumar">
+          Sumar
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" 
+             id="opRestar" value="2" name="operacion">
+        <label class="form-check-label" for="opRestar">
+          Restar
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" 
+             id="opMultiplicar" value="3" name="operacion">
+        <label class="form-check-label" for="opMultiplicar">
+          Multiplicar
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" 
+             id="opDividir" value="4" name="operacion">
+        <label class="form-check-label" for="opDividir">
+          Dividir
+        </label>
+      </div>
+    </div>
+  </fieldset>  
+  <button type="button" class="btn btn-danger mb-3" onclick="realizarOperacion()">Realizar Operación</button>
+  <div class="row mb-3">
+    <label for="op2" class="col-sm-2 col-form-label">Resultado</label>
+    <div class="col-sm-3">
+      <h1 id="resultado"></h1>
+    </div>
+  </div>
+</form>
+
