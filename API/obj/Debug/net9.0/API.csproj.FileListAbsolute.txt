@@ -31,3 +31,4 @@
 /Users/jlopezh73/Proyectos2025/CalculadoraWEB/API/obj/Debug/net9.0/API.pdb
 /Users/jlopezh73/Proyectos2025/CalculadoraWEB/API/obj/Debug/net9.0/API.genruntimeconfig.cache
 /Users/jlopezh73/Proyectos2025/CalculadoraWEB/API/obj/Debug/net9.0/ref/API.dll
+/Users/jlopezh73/Proyectos2025/CalculadoraWEB/API/obj/Debug/net9.0/API.sourcelink.json

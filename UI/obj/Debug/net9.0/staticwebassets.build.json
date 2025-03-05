@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xZ5Wi5zeqdPuMFPOandqyyd+f70RNAE8FpWCdSf5XYg=",
+  "Hash": "r7PMtqw9Ubw0h4IXI4ypW0RRk/cqK49gkKMIrIGvq1I=",
   "Source": "UI",
   "BasePath": "_content/UI",
   "Mode": "Default",
@@ -752,12 +752,12 @@
       "OriginalItemSpec": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pm0mdmvuam.gz",
+      "Identity": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
       "SourceId": "UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/UI",
-      "RelativePath": "js/operaciones#[.{fingerprint=pm0mdmvuam}]?.js.gz",
+      "RelativePath": "js/operaciones#[.{fingerprint=pjtk3yk0o0}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -766,8 +766,8 @@
       "RelatedAsset": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/js/operaciones.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gmbhfzg3c0",
-      "Integrity": "GPBoMMeC91g6U+6yprOlT4mm3ACVmsGiY7T+TxfXfbg=",
+      "Fingerprint": "qbypduw50o",
+      "Integrity": "+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/js/operaciones.js"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pm0mdmvuam",
-      "Integrity": "sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k=",
+      "Fingerprint": "pjtk3yk0o0",
+      "Integrity": "lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/operaciones.js"
@@ -3367,12 +3367,12 @@
     },
     {
       "Route": "js/operaciones.js",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pm0mdmvuam.gz",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004716981132"
+          "Quality": "0.002610966057"
         }
       ],
       "ResponseHeaders": [
@@ -3382,15 +3382,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "211"
+          "Value": "382"
         },
         {
           "Name": "ETag",
-          "Value": "\"GPBoMMeC91g6U+6yprOlT4mm3ACVmsGiY7T+TxfXfbg=\""
+          "Value": "\"+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:31:44 GMT"
+          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3410,13 +3410,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k=\""
+          "Value": "W/\"lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k="
+          "Value": "sha256-lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o="
         }
       ]
     },
@@ -3431,7 +3431,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "549"
+          "Value": "964"
         },
         {
           "Name": "Content-Type",
@@ -3439,11 +3439,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k=\""
+          "Value": "\"lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:31:44 GMT"
+          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3453,13 +3453,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k="
+          "Value": "sha256-lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o="
         }
       ]
     },
     {
       "Route": "js/operaciones.js.gz",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pm0mdmvuam.gz",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3468,7 +3468,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "211"
+          "Value": "382"
         },
         {
           "Name": "Content-Type",
@@ -3476,11 +3476,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GPBoMMeC91g6U+6yprOlT4mm3ACVmsGiY7T+TxfXfbg=\""
+          "Value": "\"+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:31:44 GMT"
+          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3498,18 +3498,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GPBoMMeC91g6U+6yprOlT4mm3ACVmsGiY7T+TxfXfbg="
+          "Value": "sha256-+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k="
         }
       ]
     },
     {
-      "Route": "js/operaciones.pm0mdmvuam.js",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pm0mdmvuam.gz",
+      "Route": "js/operaciones.pjtk3yk0o0.js",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004716981132"
+          "Quality": "0.002610966057"
         }
       ],
       "ResponseHeaders": [
@@ -3519,15 +3519,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "211"
+          "Value": "382"
         },
         {
           "Name": "ETag",
-          "Value": "\"GPBoMMeC91g6U+6yprOlT4mm3ACVmsGiY7T+TxfXfbg=\""
+          "Value": "\"+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:31:44 GMT"
+          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3547,13 +3547,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k=\""
+          "Value": "W/\"lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pm0mdmvuam"
+          "Value": "pjtk3yk0o0"
         },
         {
           "Name": "label",
@@ -3561,12 +3561,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k="
+          "Value": "sha256-lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o="
         }
       ]
     },
     {
-      "Route": "js/operaciones.pm0mdmvuam.js",
+      "Route": "js/operaciones.pjtk3yk0o0.js",
       "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/js/operaciones.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3576,7 +3576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "549"
+          "Value": "964"
         },
         {
           "Name": "Content-Type",
@@ -3584,11 +3584,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k=\""
+          "Value": "\"lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:31:44 GMT"
+          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3598,7 +3598,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pm0mdmvuam"
+          "Value": "pjtk3yk0o0"
         },
         {
           "Name": "label",
@@ -3606,13 +3606,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sWGHtn0B2F0xIeVeS1h4wFUu1VzLoA2jdUP5UN/Bw0k="
+          "Value": "sha256-lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o="
         }
       ]
     },
     {
-      "Route": "js/operaciones.pm0mdmvuam.js.gz",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pm0mdmvuam.gz",
+      "Route": "js/operaciones.pjtk3yk0o0.js.gz",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3621,7 +3621,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "211"
+          "Value": "382"
         },
         {
           "Name": "Content-Type",
@@ -3629,11 +3629,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GPBoMMeC91g6U+6yprOlT4mm3ACVmsGiY7T+TxfXfbg=\""
+          "Value": "\"+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:31:44 GMT"
+          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3651,7 +3651,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pm0mdmvuam"
+          "Value": "pjtk3yk0o0"
         },
         {
           "Name": "label",
@@ -3659,7 +3659,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GPBoMMeC91g6U+6yprOlT4mm3ACVmsGiY7T+TxfXfbg="
+          "Value": "sha256-+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k="
         }
       ]
     },
