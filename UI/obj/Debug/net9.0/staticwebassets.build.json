@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r7PMtqw9Ubw0h4IXI4ypW0RRk/cqK49gkKMIrIGvq1I=",
+  "Hash": "4umxIoW+dbLtXTdYK0QEIVKOBXGR2MaOOetlmZ//PCk=",
   "Source": "UI",
   "BasePath": "_content/UI",
   "Mode": "Default",
@@ -752,12 +752,12 @@
       "OriginalItemSpec": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
+      "Identity": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-g83mu1hdxj.gz",
       "SourceId": "UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/UI",
-      "RelativePath": "js/operaciones#[.{fingerprint=pjtk3yk0o0}]?.js.gz",
+      "RelativePath": "js/operaciones#[.{fingerprint=g83mu1hdxj}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -766,8 +766,8 @@
       "RelatedAsset": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/js/operaciones.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qbypduw50o",
-      "Integrity": "+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=",
+      "Fingerprint": "9fwa9iykcb",
+      "Integrity": "W+w8tC22o8n6kqZUuRMtazJVNeqbUM4OAAENdh8vcws=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/js/operaciones.js"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pjtk3yk0o0",
-      "Integrity": "lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=",
+      "Fingerprint": "g83mu1hdxj",
+      "Integrity": "IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/operaciones.js"
@@ -3366,13 +3366,13 @@
       ]
     },
     {
-      "Route": "js/operaciones.js",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
+      "Route": "js/operaciones.g83mu1hdxj.js",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-g83mu1hdxj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002610966057"
+          "Quality": "0.002645502646"
         }
       ],
       "ResponseHeaders": [
@@ -3382,19 +3382,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "382"
+          "Value": "377"
         },
         {
           "Name": "ETag",
-          "Value": "\"+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=\""
+          "Value": "\"W+w8tC22o8n6kqZUuRMtazJVNeqbUM4OAAENdh8vcws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
+          "Value": "Wed, 05 Mar 2025 22:33:14 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3410,18 +3410,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=\""
+          "Value": "W/\"IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "g83mu1hdxj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/operaciones.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o="
+          "Value": "sha256-IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg="
         }
       ]
     },
     {
-      "Route": "js/operaciones.js",
+      "Route": "js/operaciones.g83mu1hdxj.js",
       "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/js/operaciones.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3431,7 +3439,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "964"
+          "Value": "891"
         },
         {
           "Name": "Content-Type",
@@ -3439,121 +3447,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=\""
+          "Value": "\"IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o="
-        }
-      ]
-    },
-    {
-      "Route": "js/operaciones.js.gz",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "382"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k="
-        }
-      ]
-    },
-    {
-      "Route": "js/operaciones.pjtk3yk0o0.js",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002610966057"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "382"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
+          "Value": "Wed, 05 Mar 2025 22:33:14 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pjtk3yk0o0"
+          "Value": "g83mu1hdxj"
         },
         {
           "Name": "label",
@@ -3561,13 +3469,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o="
+          "Value": "sha256-IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg="
         }
       ]
     },
     {
-      "Route": "js/operaciones.pjtk3yk0o0.js",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/js/operaciones.js",
+      "Route": "js/operaciones.g83mu1hdxj.js.gz",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-g83mu1hdxj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3576,7 +3484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "964"
+          "Value": "377"
         },
         {
           "Name": "Content-Type",
@@ -3584,56 +3492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o=\""
+          "Value": "\"W+w8tC22o8n6kqZUuRMtazJVNeqbUM4OAAENdh8vcws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pjtk3yk0o0"
-        },
-        {
-          "Name": "label",
-          "Value": "js/operaciones.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lb1aVJUtzBAX5tI+rD9Wg9xt4q691bss2OJCVO6/6+o="
-        }
-      ]
-    },
-    {
-      "Route": "js/operaciones.pjtk3yk0o0.js.gz",
-      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-pjtk3yk0o0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "382"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 20:13:38 GMT"
+          "Value": "Wed, 05 Mar 2025 22:33:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3651,7 +3514,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pjtk3yk0o0"
+          "Value": "g83mu1hdxj"
         },
         {
           "Name": "label",
@@ -3659,7 +3522,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+uBnihZaJDPGZ9nK3sgVC1vEvUpE2jQtze0GzOxzV9k="
+          "Value": "sha256-W+w8tC22o8n6kqZUuRMtazJVNeqbUM4OAAENdh8vcws="
+        }
+      ]
+    },
+    {
+      "Route": "js/operaciones.js",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-g83mu1hdxj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002645502646"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+w8tC22o8n6kqZUuRMtazJVNeqbUM4OAAENdh8vcws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 22:33:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg="
+        }
+      ]
+    },
+    {
+      "Route": "js/operaciones.js",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/wwwroot/js/operaciones.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 22:33:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHRuUzYDY3nkP8L+P2HUmV18n7vLnKRWhxr6UHIrARg="
+        }
+      ]
+    },
+    {
+      "Route": "js/operaciones.js.gz",
+      "AssetFile": "/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/obj/Debug/net9.0/compressed/i76hglq3h0-g83mu1hdxj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+w8tC22o8n6kqZUuRMtazJVNeqbUM4OAAENdh8vcws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 22:33:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W+w8tC22o8n6kqZUuRMtazJVNeqbUM4OAAENdh8vcws="
         }
       ]
     },
