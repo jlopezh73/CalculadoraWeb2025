@@ -1,9 +1,18 @@
 var builder = WebApplication.CreateBuilder(args);
 
+
+var OperacionesUrlSvc = builder.Configuration["OperacionesUrlService"];
+
+builder.Services.AddHttpClient("OperacionesService", client =>
+{ 
+    client.BaseAddress = new Uri(OperacionesUrlSvc);
+});
+
 // Add services to the container.
+builder.Services.AddControllers();
 builder.Services.AddRazorPages();
 builder.Services.AddSingleton<DatosOperacion>();
-builder.Services.AddSingleton<IOperaciones, Operaciones>();
+builder.Services.AddSingleton<IOperaciones, OperacionesGW>();
 
 var app = builder.Build();
 
@@ -22,6 +31,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapStaticAssets();
+app.MapControllers();
 app.MapRazorPages();
 app.MapFallbackToPage("/Operaciones");
 app.Run();

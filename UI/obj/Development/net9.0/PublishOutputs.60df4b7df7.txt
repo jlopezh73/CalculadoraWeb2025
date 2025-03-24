@@ -1,0 +1,7 @@
+/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/bin/Development/net9.0/publish/UI
+/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/bin/Development/net9.0/publish/appsettings.Development.json
+/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/bin/Development/net9.0/publish/appsettings.json
+/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/bin/Development/net9.0/publish/UI.dll
+/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/bin/Development/net9.0/publish/UI.deps.json
+/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/bin/Development/net9.0/publish/UI.runtimeconfig.json
+/Users/jlopezh73/Proyectos2025/CalculadoraWEB/UI/bin/Development/net9.0/publish/UI.pdb

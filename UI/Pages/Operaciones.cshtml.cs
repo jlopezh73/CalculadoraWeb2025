@@ -25,10 +25,10 @@ public class OperacionesModel : PageModel
 
     }
 
-    public void OnPost() {
+    public void OnPost() {        
         datosOperacion.resultado = 
              operaciones.ejecutar((double)datosOperacion.op1, 
                                   (double)datosOperacion.op2, 
-                                  datosOperacion.operacion);
+                                  datosOperacion.operacion);        
     }
 }
