@@ -1,0 +1,27 @@
+
+services:
+  ui:
+    image: operaciones_app:1.0
+    depends_on:
+      api: 
+        condition: service_started              
+    ports:
+      - "8080:8080"    
+    networks:
+      interna:
+        ipv4_address: 172.16.0.1  
+  api:
+    image: operaciones_api:1.0    
+    ports:
+      - "8081:8080"    
+    networks:
+      interna:
+        ipv4_address: 172.16.0.2
+networks:
+  interna: 
+    ipam:       
+      config:
+        - subnet:  172.16.0.0/16
+          gateway: 172.16.0.254
+          
+        
